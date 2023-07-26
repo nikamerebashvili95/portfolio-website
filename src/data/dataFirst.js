@@ -8,6 +8,7 @@ import Equilaizer from "../assets/projects/Equilaizer.jpg";
 import TypeMaster from "../assets/projects/TypeMaster.jpg";
 import FourCard from "../assets/projects/FourCard.jpg";
 import Fylo from "../assets/projects/Fylo.jpg";
+/*
 import OmniFood from "../assets/projects/OmniFood.jpg";
 import DesigneSolution from "../assets/projects/DesigneSolution.jpg";
 import FaqAccordian from "../assets/projects/FaqAccordian.jpg";
@@ -20,6 +21,7 @@ import GithubUserSearch from "../assets/projects/GithubUserSearch.jpg";
 import Weather from "../assets/projects/Weather.jpg";
 import TodoList from "../assets/projects/TodoList.jpg";
 import Redberry from "../assets/projects/Redberry.jpg";
+*/
 export const data = [
   {
     id: 1,
@@ -95,6 +97,7 @@ export const data = [
     github: "https://github.com/nikamerebashvili95/art-gallery-website",
     live: "https://nikamerebashvili95.github.io/art-gallery-website/",
   },
+  /*
   {
     id: 11,
     name: "HTML CSS JAVASCRIPT Application",
@@ -182,4 +185,5 @@ export const data = [
     github: "https://github.com/nikamerebashvili95/Redberry-challenge",
     live: "https://nikamerebashvili95.github.io/Redberry-challenge/",
   },
+  */
 ];
