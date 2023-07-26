@@ -10,6 +10,7 @@ import GithubUserSearch from "../assets/projects/GithubUserSearch.jpg";
 import Weather from "../assets/projects/Weather.jpg";
 import TodoList from "../assets/projects/TodoList.jpg";
 import Redberry from "../assets/projects/Redberry.jpg";
+import NineStar from "../assets/projects/NineStar.jpg";
 export const data2 = [
   {
     id: 1,
@@ -93,6 +94,13 @@ export const data2 = [
   },
   {
     id: 12,
+    name: "HTML, CSS, JAVASCRIPT  Application: Ninestar",
+    image: NineStar,
+    github: "https://github.com/nikamerebashvili95/NineStars",
+    live: "https://nikamerebashvili95.github.io/NineStars/",
+  },
+  {
+    id: 13,
     name: "HTML, CSS, JAVASCRIPT, API Application: Redberry-Simple-Resume-Maker",
     image: Redberry,
     github: "https://github.com/nikamerebashvili95/Redberry-challenge",

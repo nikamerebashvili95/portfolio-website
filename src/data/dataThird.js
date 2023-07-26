@@ -36,7 +36,7 @@ export const data3 = [
     name: "React JS Application: The-React-Quiz",
     image: Quiz,
     github: "https://github.com/nikamerebashvili95/react-quiz",
-    live: "",
+    live: "https://nikamerebashvili95.github.io/react-quiz/",
   },
 
   {
