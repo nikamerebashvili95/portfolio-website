@@ -28,7 +28,7 @@ export const data3 = [
     name: "React JS Application: UsePopcorn",
     image: UsePopcorn,
     github: "https://github.com/nikamerebashvili95/usepopcorn",
-    live: "",
+    live: "https://nikamerebashvili95.github.io/usepopcorn/",
   },
 
   {
@@ -44,7 +44,7 @@ export const data3 = [
     name: "React JS Application: WorldWise",
     image: WorldWise,
     github: "https://github.com/nikamerebashvili95/worldwise",
-    live: "",
+    live: "https://worldwise-project.netlify.app/",
   },
   {
     id: 6,
@@ -64,7 +64,7 @@ export const data3 = [
 
   {
     id: 8,
-    name: "React JS Website:   The-Wild-Oasis",
+    name: "React JS Website: The-Wild-Oasis. E-mail: test@test.com, Password:  Random123",
     image: Wild,
     github: "https://github.com/nikamerebashvili95/the-wild-oa",
     live: "https://the-wil-oasis-project.netlify.app/the-wild-oasis/login",
