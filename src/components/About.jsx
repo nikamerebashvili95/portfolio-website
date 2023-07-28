@@ -19,11 +19,11 @@ function About() {
           </div>
           <div>
             <p>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?
+              I'm a Front-end developer. I've been learning programming for
+              about a year and always looking for new challenges, I love to
+              solve problems and never give up. I’ve made projects with Html,
+              Css, Javascript, React.Js, and Tailwindcss which you can see in my
+              works. I am very motivated and give all my time programming.
             </p>
           </div>
         </div>
