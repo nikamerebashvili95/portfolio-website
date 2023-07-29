@@ -18,7 +18,7 @@ Portfolio-Website: It's my portfolio and take a look around.
 
 ### Screenshots
 
-![](./src/assets/screen/jpg)
+![](./src/assets/screen.jpg)
 ### Link
 
 - Solution URL: [GitHub](https://github.com/nikamerebashvili95/portfolio-website)
