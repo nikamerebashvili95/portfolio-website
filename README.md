@@ -1,8 +1,38 @@
-# React + Vite
+# Portfolio-Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of contents
 
-Currently, two official plugins are available:
+- [Overview](#overview)
+  - [Review](#Review)
+  - [Screenshots](#screenshots)
+  - [Link](#link)
+  - [Built with](#built-with)
+- [Author](#author)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Overview
+
+### Review
+
+Portfolio-Website: It's my portfolio and take a look around.
+
+### Screenshots
+
+![](./src/assets/screen/jpg)
+### Link
+
+- Solution URL: [GitHub](https://github.com/nikamerebashvili95/portfolio-website)
+
+
+### Built with
+
+- React
+- Vite
+- Tailwind
+
+## Author
+
+- GitHub - [Nika Merebashvili](https://github.com/nikamerebashvili95)
+- LinkedIn - [Nika Merebashvili](https://www.linkedin.com/in/nikamerebashvili)
+- Portfolio - [Portfolio](https://nikamerebashvili95.github.io/portfolio-website/)
+
