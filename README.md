@@ -28,7 +28,7 @@ Portfolio-Website: It's my portfolio and take a look around.
 
 - React
 - Vite
-- Tailwind
+- Tailwindcss
 
 ## Author
 
