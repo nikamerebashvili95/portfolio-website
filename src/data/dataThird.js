@@ -6,6 +6,7 @@ import WorldWise from "../assets/projects/WorldWise.jpg";
 import Bank from "../assets/projects/Bank.jpg";
 import Pizza from "../assets/projects/Pizza.jpg";
 import Wild from "../assets/projects/Wild.jpg";
+import Cocktail from "../assets/projects/Cocktail.jpg";
 export const data3 = [
   {
     id: 1,
@@ -53,9 +54,16 @@ export const data3 = [
     github: "https://github.com/nikamerebashvili95/react-redux-bank",
     live: "https://nikamerebashvili95.github.io/react-redux-bank/",
   },
-
   {
     id: 7,
+    name: "Cocktail",
+    image: Cocktail,
+    github: "https://github.com/nikamerebashvili95/cocktails-react",
+    live: "https://cocktail-react-project-fromnika.netlify.app/",
+  },
+
+  {
+    id: 8,
     name: "React JS Application:  Fast-React-Pizza",
     image: Pizza,
     github: "https://github.com/nikamerebashvili95/fast-react-pizza",
@@ -63,7 +71,7 @@ export const data3 = [
   },
 
   {
-    id: 8,
+    id: 9,
     name: "React JS Website: The-Wild-Oasis. E-mail: test@test.com, Password:  Random123",
     image: Wild,
     github: "https://github.com/nikamerebashvili95/the-wild-oa",
