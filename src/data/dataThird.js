@@ -6,11 +6,9 @@ import WorldWise from "../assets/projects/WorldWise.jpg";
 import Bank from "../assets/projects/Bank.jpg";
 import Pizza from "../assets/projects/Pizza.jpg";
 import Wild from "../assets/projects/Wild.jpg";
-<<<<<<< HEAD
 import Cocktail from "../assets/projects/Cocktail.jpg";
-=======
 import ComfySloth from "../assets/projects/ComfySloth.jpg";
->>>>>>> 6e2b4cd (add project)
+
 export const data3 = [
   {
     id: 1,
