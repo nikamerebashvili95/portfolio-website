@@ -6,7 +6,11 @@ import WorldWise from "../assets/projects/WorldWise.jpg";
 import Bank from "../assets/projects/Bank.jpg";
 import Pizza from "../assets/projects/Pizza.jpg";
 import Wild from "../assets/projects/Wild.jpg";
+<<<<<<< HEAD
 import Cocktail from "../assets/projects/Cocktail.jpg";
+=======
+import ComfySloth from "../assets/projects/ComfySloth.jpg";
+>>>>>>> 6e2b4cd (add project)
 export const data3 = [
   {
     id: 1,
@@ -76,5 +80,12 @@ export const data3 = [
     image: Wild,
     github: "https://github.com/nikamerebashvili95/the-wild-oa",
     live: "https://the-wil-oasis-project.netlify.app/the-wild-oasis/login",
+  },
+  {
+    id: 9,
+    name: "Comfy-Sloth-Store",
+    image: ComfySloth,
+    github: "https://github.com/nikamerebashvili95/comfy-sloth",
+    live: "https://comfy-sloth-from-nika.netlify.app/",
   },
 ];
