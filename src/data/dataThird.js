@@ -8,7 +8,7 @@ import Pizza from "../assets/projects/Pizza.jpg";
 import Wild from "../assets/projects/Wild.jpg";
 import Cocktail from "../assets/projects/Cocktail.jpg";
 import ComfySloth from "../assets/projects/ComfySloth.jpg";
-
+import Jobster from "../assets/projects/Jobster.jpg";
 export const data3 = [
   {
     id: 1,
@@ -85,5 +85,12 @@ export const data3 = [
     image: ComfySloth,
     github: "https://github.com/nikamerebashvili95/comfy-sloth",
     live: "https://comfy-sloth-from-nika.netlify.app/",
+  },
+  {
+    id: 10,
+    name: "Jobster",
+    image: Jobster,
+    github: "https://github.com/nikamerebashvili95/jobster",
+    live: "https://jobster-from-nika.netlify.app/landing",
   },
 ];
