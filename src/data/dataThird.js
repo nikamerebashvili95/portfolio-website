@@ -9,6 +9,7 @@ import Wild from "../assets/projects/Wild.jpg";
 import Cocktail from "../assets/projects/Cocktail.jpg";
 import ComfySloth from "../assets/projects/ComfySloth.jpg";
 import Jobster from "../assets/projects/Jobster.jpg";
+import GithubUsers from "../assets/projects/GithubUsers.jpg";
 export const data3 = [
   {
     id: 1,
@@ -92,5 +93,12 @@ export const data3 = [
     image: Jobster,
     github: "https://github.com/nikamerebashvili95/jobster",
     live: "https://jobster-from-nika.netlify.app/landing",
+  },
+  {
+    id: 11,
+    name: "Search-Github-Users",
+    image: GithubUsers,
+    github: "https://github.com/nikamerebashvili95/search-github-users",
+    live: "https://stalwart-sable-280117.netlify.app/",
   },
 ];
