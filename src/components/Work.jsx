@@ -1,6 +1,6 @@
-import Works1 from "./works/Works1";
+/* eslint-disable */
+import Works from "./works/Works";
 import Works2 from "./works/Works2";
-import Works3 from "./works/Works3";
 function Work() {
   return (
     <div name="work" className="w-full   text-gray-300 bg-[#0a192f]">
@@ -11,9 +11,8 @@ function Work() {
           </p>
           <p className="py-6">// Check out some of my recent work</p>
         </div>
-        <Works1 />
+        <Works />
         <Works2 />
-        <Works3 />
       </div>
     </div>
   );

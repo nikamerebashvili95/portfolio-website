@@ -8,7 +8,7 @@ function Works1() {
   return (
     <div className="mt-20">
       <h3 className="text-3xl  flex justify-center text-center items-center py-6">
-        HTML, CSS, JAVASCRIPT
+        Basic Projects
       </h3>
       {/* container for projects */}
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">

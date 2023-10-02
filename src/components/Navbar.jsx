@@ -1,17 +1,9 @@
+/* eslint-disable */
 import { useState } from "react";
 import Logo from "../assets/logo1.svg";
-import {
-  FaBars,
-  FaTimes,
-  FaGithub,
-  FaLinkedin,
-  FaFacebook,
-  FaLinkedinIn,
-} from "react-icons/fa";
+import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-import { BsFillPersonLinesFill } from "react-icons/bs";
 import { Link } from "react-scroll";
-import Resume from "../assets/Nika-Merebashvili.pdf";
 function Navbar() {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
@@ -123,16 +115,6 @@ function Navbar() {
               target="_blank"
             >
               Email <HiOutlineMail size={30} />
-            </a>
-          </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
-            <a
-              className="flex justify-between items-center w-full text-gray-300"
-              href={Resume}
-              target="_blank"
-              download
-            >
-              Resume <BsFillPersonLinesFill size={30} />
             </a>
           </li>
         </ul>

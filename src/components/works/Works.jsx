@@ -6,9 +6,9 @@ function Works1() {
   //setProject(data);
 
   return (
-    <div>
+    <div className="mt-20">
       <h3 className="text-3xl  flex justify-center text-center items-center py-6">
-        HTML, CSS
+        Main Projects
       </h3>
       {/* container for projects */}
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
