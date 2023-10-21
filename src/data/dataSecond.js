@@ -51,8 +51,8 @@ export const data2 = [
     id: 6,
     name: "HTML, CSS, JAVASCRIPT Application: Todo-List",
     image: TodoList,
-    github: "https://github.com/nikamerebashvili95/Todo-App",
-    live: "https://nikamerebashvili95.github.io/Todo-App/",
+    github: "https://github.com/nikamerebashvili95/todo-app-vue",
+    live: "https://todo-app-vue-from-nika.netlify.app/",
   },
   {
     id: 7,
