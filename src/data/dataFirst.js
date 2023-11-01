@@ -50,7 +50,7 @@ export const data = [
     id: 6,
     name: "React JS Website: The-Wild-Oasis. E-mail: test@test.com, Password:  Random123",
     image: Wild,
-    github: "https://github.com/nikamerebashvili95/the-wild-oa",
+    github: "https://github.com/nikamerebashvili95/the-wild-oasis",
     live: "https://the-wil-oasis-project.netlify.app/the-wild-oasis/login",
   },
   {
