@@ -9,6 +9,7 @@ import TodoList from "../assets/projects/TodoList.jpg";
 import NineStar from "../assets/projects/NineStar.jpg";
 import TicTacToe from "../assets/projects/TicTacToe.jpg";
 import EatSplit from "../assets/projects/EatSplit.jpg";
+import ItemList from "../assets/projects/ItemList.jpg";
 export const data2 = [
   {
     id: 1,
@@ -19,7 +20,7 @@ export const data2 = [
   },
   {
     id: 2,
-    name: "HTML, CSS, JAVASCRIPT Application: Designe-Solution",
+    name: "HTML, CSS, JAVASCRIPT Application: Design-Solution",
     image: DesigneSolution,
     github: "https://github.com/nikamerebashvili95/designe-solution",
     live: "https://nikamerebashvili95.github.io/designe-solution/",
@@ -88,5 +89,12 @@ export const data2 = [
     image: EatSplit,
     github: "https://github.com/nikamerebashvili95/eat-n-split",
     live: "https://nikamerebashvili95.github.io/eat-n-split/",
+  },
+  {
+    id: 12,
+    name: "React JS Application: ItemList",
+    image: ItemList,
+    github: "https://github.com/nikamerebashvili95/item-list-react",
+    live: "https://itemlist-raect.netlify.app/",
   },
 ];
